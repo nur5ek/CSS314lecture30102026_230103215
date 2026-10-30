@@ -1,7 +1,4 @@
-\# CS482 — Parallel Computing \& Performance Optimization
-
-
-
+01-N
 \*\*Student ID:\*\* 230103215
 
 

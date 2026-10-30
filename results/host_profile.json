@@ -1,0 +1,20 @@
+{
+    "cpu_model": "12th Gen Intel(R) Core(TM) i7-12650H",
+    "microarchitecture": "Alder Lake",
+    "base_frequency_MHz": 2300,
+    "physical_cores": 10,
+    "logical_threads": 16,
+    "SMT_enabled": true,
+    "cache": {
+        "L1_data_KB": 416,
+        "L2_KB": 9728,
+        "L3_shared_KB": 24576,
+        "cache_line_bytes": 64
+    },
+    "operating_system": "Windows",
+    "os_version": "10.0.26200",
+    "kernel_version": "11",
+    "python_version": "3.12.10 (tags/v3.12.10:0cc8128, Apr  8 2025, 12:21:36) [MSC v.1943 64 bit (AMD64)]",
+    "python_implementation": "CPython",
+    "python_architecture": "64bit"
+}

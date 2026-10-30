@@ -1,0 +1,28 @@
+{
+    "kernel": "5-point 2D stencil",
+    "base_dimension": 1536,
+    "floating_point_operations_per_cell": 5,
+    "bytes_per_cell": 48,
+    "arithmetic_intensity_flops_per_byte": 0.10416666666666667,
+    "peak_memory_bandwidth_gb_s_assumed": 76.8,
+    "estimated_bandwidth_roof_gflops": 8.0,
+    "classification": "Memory-Bandwidth Bound",
+    "amdahl_fitted_serial_fraction": 0.26180000000000003,
+    "amdahl_maximum_speedup": 3.8197097020626427,
+    "strong_scaling_times": {
+        "1": 0.036820200039073825,
+        "2": 0.018562299897894263,
+        "4": 0.012589800171554089,
+        "8": 0.013099099975079298,
+        "10": 0.014123799977824092
+    },
+    "weak_scaling_times": {
+        "1": 0.027017799904569983,
+        "2": 0.03439550008624792,
+        "4": 0.05426199990324676,
+        "8": 0.08719400013796985,
+        "10": 0.10362949990667403
+    },
+    "strong_checksum": 1175889.4565620641,
+    "reference_checksum": 1175889.4565620641
+}

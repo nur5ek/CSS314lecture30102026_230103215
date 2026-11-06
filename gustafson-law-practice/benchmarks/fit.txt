@@ -1,0 +1,2 @@
+Fitted alpha = 0.77328596
+Measured scaled speedup = P * mean_T1 / mean_TP
